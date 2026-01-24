@@ -10,7 +10,7 @@ Django • FastAPI • Cloud • DevOps • Bash
 ---
 
 ## 🛠 Skills & Interests
-- **Scripting & Automation:** Bash, Python, Shell scripting  
+- **Scripting & Automation:** Bash, Python, C  
 - **Web Development:** Django, FastAPI  
 - **Cloud & DevOps:** AWS, CI/CD, Docker, Kubernetes basics  
 - **Databases:** PostgreSQL, MySQL, SQLite
