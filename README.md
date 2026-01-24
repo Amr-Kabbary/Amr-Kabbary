@@ -13,7 +13,9 @@ Django • FastAPI • Cloud • DevOps • Bash
 - **Scripting & Automation:** Bash, Python, Shell scripting  
 - **Web Development:** Django, FastAPI  
 - **Cloud & DevOps:** AWS, CI/CD, Docker, Kubernetes basics  
-- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Operating Systems:** Windows, Linux (main development environment)
+
 
 ---
 
