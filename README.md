@@ -24,4 +24,4 @@ Django • FastAPI • Cloud • DevOps • Bash
 ---
 
 ## 📫 Connect with me
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amrkabbary/)  
+- LinkedIn: [amrkabbary](https://www.linkedin.com/in/amrkabbary/)  
