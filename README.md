@@ -21,7 +21,7 @@
 
 I'm a **Business Analyst, Data Analyst & aspiring Data Scientist** with 4+ years at Sutherland, working across **48 lines of business** in Egypt, the Philippines, Bulgaria, India, and Malaysia. I sit at the intersection of data, operations, and strategy — turning messy numbers into decisions that move metrics.
 
-Currently an **Associate Manager, Business Analyst**, I lead cross-regional projects spanning Lean Six Sigma, data analytics, automation, and executive reporting. On the DS side, I work with Python, statistical modeling, and data visualization — applying analytical thinking beyond dashboards and into predictive territory. I'm also finishing my **B.Sc. in Software Engineering** at Alexandria University (2026) and working toward my **CCBA** certification.
+Currently an **Associate Manager, Business Analyst**, I lead cross-regional projects spanning Lean Six Sigma, data analytics, automation, and executive reporting. On the DS side, I work with Python, statistical modeling, and data visualization — applying analytical thinking beyond dashboards and into predictive territory. I'm also finishing my **B.Sc. in Software Engineering** at Alexandria University (2026).
 
 > *"I don't just report what happened — I find why, and fix it."*
 
@@ -90,7 +90,6 @@ Deep-dive EDA into a cybersecurity attacks dataset — uncovering attack pattern
 ✅  Lean Six Sigma Green Belt         — Sutherland Internal Certification
 ✅  Google Data Analytics Professional — Google
 ✅  Microsoft Business Analyst         — Microsoft
-🔜  CCBA (Capability in Business Analysis) — IIBA (Expected Jun/Jul 2026)
 ```
 
 ---
