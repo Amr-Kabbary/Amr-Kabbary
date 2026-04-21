@@ -19,11 +19,9 @@
 
 ## 👋 About Me
 
-I'm a **Business Analyst, Data Analyst & aspiring Data Scientist** with 4+ years at Sutherland, working across **48 lines of business** in Egypt, the Philippines, Bulgaria, India, and Malaysia. I sit at the intersection of data, operations, and strategy — turning messy numbers into decisions that move metrics.
+Business Analyst and Data Analyst with 4+ years at Sutherland across projects in Egypt, the Philippines, Bulgaria, India, and Malaysia. I work across data, operations, and strategy, and I'm building toward data science through hands-on projects in Python, statistical modeling, and visualization.
 
-Currently an **Associate Manager, Business Analyst**, I lead cross-regional projects spanning Lean Six Sigma, data analytics, automation, and executive reporting. On the DS side, I work with Python, statistical modeling, and data visualization — applying analytical thinking beyond dashboards and into predictive territory. I'm also finishing my **B.Sc. in Software Engineering** at Alexandria University (2026).
-
-> *"I don't just report what happened — I find why, and fix it."*
+Currently an Associate Manager, BA, leading cross-regional work in Lean Six Sigma, analytics, and reporting. Also finishing my B.Sc. in Software Engineering at Alexandria University (2026).
 
 ---
 
@@ -45,37 +43,39 @@ Currently an **Associate Manager, Business Analyst**, I lead cross-regional proj
 ## 🗂️ What I Work On
 
 ### 🔬 Data Science
-Applying statistical modeling, exploratory data analysis, and Python-based workflows to uncover patterns and build data products. Focused on bridging the gap between business intuition and quantitative rigor — working with real datasets to develop and communicate meaningful findings through clean visualizations and storytelling.
+Statistical modeling, EDA, and Python projects. I'm focused on working with real datasets, finding patterns, and presenting findings in a way that's easy to understand.
 
 ### 📐 Business Analysis
-Requirements gathering, stakeholder alignment, user stories, KPI/OKR frameworks, and process documentation across global teams.
+Requirements gathering, stakeholder alignment, user stories, KPI/OKR frameworks, and process documentation.
 
 ### 📊 Data Analytics
-Building dashboards, data pipelines, and analytical frameworks that turn raw data into clear, actionable insights for decision-makers.
+Building dashboards and analytical reports that give decision-makers a clear picture of what's happening and why.
 
 ### ⚙️ Process Improvement
-Lean Six Sigma Green Belt — designing and executing data-driven improvement projects with measurable, cross-regional impact.
+Lean Six Sigma Green Belt. I design and run data-driven improvement projects, mostly focused on identifying root causes and measuring impact.
 
 ### 🤖 Automation & Reporting
-Building automated reporting systems and pipelines that eliminate manual work and standardize measurement across organizations.
+Building automated reporting systems that cut down on manual work and keep measurement consistent.
 
 ---
 
 ## 🧪 Data Science Projects
 
-### 🚢 Titanic Survival Prediction — A Beginner's Guide
+### 🚢 Titanic Survival Prediction
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Amr-Kabbary/titanic-survival-prediction)
 [![Kaggle](https://img.shields.io/badge/Kaggle-View_Notebook-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/code/amrkabbary/titanic-survival-prediction-a-beginner-s-guide)
 
-End-to-end classification project on the classic Titanic dataset. Covers data cleaning, feature engineering, exploratory data analysis, and building a predictive model to determine survival likelihood — with clear visual storytelling throughout.
+Classification project on the Titanic dataset. Includes data cleaning, feature engineering, EDA, and a predictive model for survival likelihood.
 
 `Python` `pandas` `matplotlib` `seaborn` `scikit-learn` `Classification` `EDA`
 
 ---
 
-### 🔐 Cybersecurity Attacks — Exploratory Data Analysis
+### 🔐 Cybersecurity Attacks — EDA
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Amr-Kabbary/cybersecurity-eda)
 [![Kaggle](https://img.shields.io/badge/Kaggle-View_Notebook-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/code/amrkabbary/cybersecurity-attacks-exploratory-data-analysis)
 
-Deep-dive EDA into a cybersecurity attacks dataset — uncovering attack patterns, traffic anomalies, and threat distributions through statistical analysis and rich visualizations. Translates complex security data into digestible insights.
+EDA on a cybersecurity attacks dataset, looking at attack patterns, traffic anomalies, and threat distributions through statistical analysis and visualization.
 
 `Python` `pandas` `matplotlib` `seaborn` `Statistical Analysis` `EDA` `Data Visualization`
 
@@ -96,7 +96,7 @@ Deep-dive EDA into a cybersecurity attacks dataset — uncovering attack pattern
 
 ## 🌍 Global Footprint
 
-Delivered cross-functional projects and trained teams across:
+Projects and team collaboration across:
 
 `🇪🇬 Egypt` &nbsp;·&nbsp; `🇵🇭 Philippines` &nbsp;·&nbsp; `🇧🇬 Bulgaria` &nbsp;·&nbsp; `🇮🇳 India` &nbsp;·&nbsp; `🇲🇾 Malaysia`
 
@@ -104,7 +104,7 @@ Delivered cross-functional projects and trained teams across:
 
 ## 📫 Let's Connect
 
-I'm open to roles in **Data Science**, **Business Analysis**, **Data Analytics**, and **Product Management / Ownership** — especially in global or cross-functional environments.
+Open to roles in Data Science, Business Analysis, Data Analytics, and Product Management.
 
 <div align="center">
 
@@ -116,5 +116,5 @@ I'm open to roles in **Data Science**, **Business Analysis**, **Data Analytics**
 ---
 
 <div align="center">
-<sub>📊 Turning data into decisions · 🔬 Modeling the why · ⚙️ Lean by design · 🌍 Built for scale</sub>
+<sub>📊 data · 🔬 analysis · ⚙️ improvement · 🌍 scale</sub>
 </div>
