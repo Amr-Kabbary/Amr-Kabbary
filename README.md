@@ -21,7 +21,7 @@
 
 Business Analyst and Data Analyst with 4+ years at Sutherland across projects in Egypt, the Philippines, Bulgaria, India, and Malaysia. I work across data, operations, and strategy, and I'm building toward data science through hands-on projects in Python, statistical modeling, and visualization.
 
-Currently an Associate Manager, BA, leading cross-regional work in Lean Six Sigma, analytics, and reporting. Also finishing my B.Sc. in Software Engineering at Alexandria University (2026).
+Currently a BA, leading cross-regional work in Lean Six Sigma, analytics, and reporting. Also finishing my B.Sc. in Software Engineering at Alexandria University (2026).
 
 ---
 
